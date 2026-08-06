@@ -1077,7 +1077,7 @@ subroutine tamu_ice_get_rad_props_lw(state, pbuf, ext_od, abs_od, ssa_od, xmomc_
    enddo        ! end do of i
 
 
-
+! test comment
 !---------
 ! return
 !---------
